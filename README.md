@@ -1,2 +1,1 @@
-# goit-fe-course
-goit-fe-course
+https://alexander050703.github.io/goit-fe-course/
